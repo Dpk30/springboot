@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aop:aspectj-autoproxy />
+ 
+
+ 
+<bean id="loggingAspect" class="com.example.SpringBootDemo.Util.aspectHelper" />
